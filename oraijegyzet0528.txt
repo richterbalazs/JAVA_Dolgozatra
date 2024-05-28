@@ -1,0 +1,41 @@
+class CerkófMajom {
+	1-es feladat
+	private boolean mocsári;
+	
+	2-es feladat: konstruktor beállítása:
+	public CerkófMajom(){
+		this.mocsári = true;
+	}
+	
+	3-as feladat: 1 paraméteres túlterhelés kontstruktor
+	public CerkófMajom(boolean mocsári){
+		this.mocsári = mocsári;
+		zsirafok = 
+	}
+	
+	4-es:
+	public CerkófMajom() {
+		this(true);
+	}
+	
+	5-ös
+	private void bábjátékozik(){
+		
+	}
+	
+	6-os 
+	public double énekel(String dal){
+		return 0,0;
+	}
+	
+	public void szemuveg(Kartya[] csomag){	
+		
+	}
+	
+	public List<Létra> dal(asd[] géza) {
+		return new List <Létra>();
+	}
+	
+	
+	
+	}
